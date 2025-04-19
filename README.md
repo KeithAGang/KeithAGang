@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KeithAGang
-- 👀 I’m interested in software, like coding and system security 
+- 👀 I’m interested in software, like coding and decompiling code
 - 🌱 I’m currently learning computer Science 
 - 💞️ I’m looking to collaborate on projects using python, rust, go or JavaScript frameworks like react and sveltkit 
 - 📫 How to reach me on telegram t.me/@KeithAGang
