@@ -4,7 +4,7 @@
 > Systems Developer. C++ / Go / Zig.
 
 I solve problems where the constraint is hardware, memory, or latency.
-Currently porting modern backend patterns to **C++23** and **SQLite**.
+Currently self learning about **arm Assembly** (**arm7tdmi**) and **riscv** with Zig.
 
 ## ~/stack
 * **Languages:** C++ (Primary), Go, Zig, TypeScript, Python, C#.
